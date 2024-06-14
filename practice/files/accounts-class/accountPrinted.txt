@@ -1,0 +1,2 @@
+Account number: 300
+Account balance: 200
